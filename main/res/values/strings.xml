@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_shopping">Shopping</string>
+    <string name="title_todo">To-Do</string>
+    <string name="dialog_pickadate">Pick a Date</string>
+    <string name="dialog_pickatime">Pick a Time</string>
+    <string name="dialog_neweventname">New Event Name</string>
+    <string name="dialog_newshoppingitem">New Shopping Item</string>
+    <string name="dialog_newtask">New Task</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_add">Add</string>
+    <string name="dialog_next">Next</string>
+    <string name="dialog_back">Back</string>
+    <string name="dialog_delete">Delete</string>
+</resources>
